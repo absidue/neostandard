@@ -1,8 +1,15 @@
 [
+  "Bugs5382/fastify-rabbitmq",
   "Trott/cumberbatch-name",
-  "grandom-library/fnv1a",
-  "grandom-library/mt19937",
-  "juanelas/bigint-mod-arith",
+  "Xetera/ghost-cursor",
+  "cookpete/react-player",
+  "juanelas/bigint-conversion",
+  "juanelas/bigint-crypto-utils",
   "juanelas/paillier-bigint",
-  "mojaloop/central-services-metrics"
+  "leorossi/dotenv-tool",
+  "longshotlabs/simpl-schema",
+  "microlinkhq/nanoclamp",
+  "reactory/reactory",
+  "valeriangalliat/fetch-cookie",
+  "zacanger/styled-reset"
 ]

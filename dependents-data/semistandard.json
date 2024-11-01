@@ -1,5 +1,7 @@
 [
-  "attentif/unix-timestamp-js",
-  "erdtman/COSE-JS",
-  "onigoetz/postcss-lightningcss"
+  "Foo-Foo-MQ/foo-foo-mq",
+  "credful/aws-credful",
+  "juliangruber/parse-apache-directory-index",
+  "lovell/limax",
+  "redom/redom"
 ]
